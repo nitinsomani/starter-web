@@ -1,0 +1,2 @@
+Let your working branch is development and want to differentiate between local development branch and remote development branch, that case, syntax should be like git diff remotes/origin/development..development
+or 
