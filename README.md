@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ##GIT and Github
 
-devops training 
+devops coachidng 
